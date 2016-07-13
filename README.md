@@ -3,9 +3,9 @@ A simple notebook developed using C language.
 
 Objective
 
-The objective of this project is the develop of an interactive application in C that allows the management of contacts and tasks. The application allow the insertion and management of contacts and tasks, and also, consulting some task or contact as, for example, to know what are the tasks scheduled for a certain period of time.
+The objective of this project is the develop of an interactive application in C that allows the management of contacts and tasks. The application allows the insertion and management of contacts and tasks, and also, consulting some task or contact as, for example, to know what are the tasks scheduled for a certain period of time.
 
-Execute the application: 
+Execution of the application: 
 
 First, you need to compile using the command cc -o project.c project. Then, execute ./project.
 
